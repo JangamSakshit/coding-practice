@@ -6,4 +6,4 @@ This repository is dedicated to practicing programming concepts, improving probl
 
 🎯 Purpose
 Strengthen programming fundamentals
-Improve logical thinking and problem-solving
+Improve logical thinking and problem-solving.
